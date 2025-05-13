@@ -1,5 +1,8 @@
 # Superstore-Sales-Analysis Using Tableau
 To provide a comprehensive and interactive overview of sales performance across categories, products, segments, and regions for Superstore USA
+![Superstore Usa](https://github.com/user-attachments/assets/b19e414e-5f64-43dd-9b1a-b436bd762717)
+
+
 
  # Key Features
   
