@@ -3,6 +3,9 @@ To provide a comprehensive and interactive overview of sales performance across 
 
 ![Superstore Usa](https://github.com/user-attachments/assets/b19e414e-5f64-43dd-9b1a-b436bd762717)
 
+# Tools Used 
+- Tableau  
+
  # Key Features
   
 * Dynamic Metric Selector (Sales, Profit, Order ID)
