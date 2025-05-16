@@ -1,7 +1,8 @@
 # Superstore-Sales-Analysis Using Tableau
 To provide a comprehensive and interactive overview of sales performance across categories, products, segments, and regions for Superstore USA
 
-![Superstore Usa](https://github.com/user-attachments/assets/b19e414e-5f64-43dd-9b1a-b436bd762717)
+![Superstore Usa](https://github.com/user-attachments/assets/c863b536-9b80-4320-8f66-b3ea9a9fba29)
+
 
 # Tools Used 
 - Tableau  
@@ -69,7 +70,8 @@ To provide a comprehensive and interactive overview of sales performance across 
 
   📁 Data/ - https://github.com/krishna-mohapatra/Superstore-Sales-Analysis/blob/main/Superstore-USA-Dataset.xls <br/>
   📁 Dashboard/ -  https://github.com/krishna-mohapatra/Superstore-Sales-Analysis/blob/main/Superstore-USA-Dataset.xls <br/>
-  📁 Dashboard Image  ![Superstore Usa](https://github.com/user-attachments/assets/8e39726f-c887-4c0a-8b77-479795524959)
+  📁 Dashboard Image
+  ![Superstore Usa](https://github.com/user-attachments/assets/c863b536-9b80-4320-8f66-b3ea9a9fba29)
 
   # Insights generated from Dashboard
   <ins><b>Revenue Growth Insights<b/><ins/>
